@@ -21,7 +21,7 @@ struct GameGuideScreen: View {
             Spacer()
         }
         .padding()
-        .navigationBarHidden(true)
+        //.navigationBarHidden(true)
     }
 }
 

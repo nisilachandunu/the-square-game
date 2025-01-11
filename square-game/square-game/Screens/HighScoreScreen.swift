@@ -16,7 +16,7 @@ struct HighScoreScreen: View {
             
             Spacer()
         }
-        .navigationBarHidden(true)
+        //.navigationBarHidden(true)
     }
 }
 
